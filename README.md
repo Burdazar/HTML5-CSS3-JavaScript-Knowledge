@@ -1,3 +1,5 @@
+JS game coming soon...
+
 The content of this repository is a comprehensive overview on my knowledge of Web-related programming languages
 
-I try to keep it cleen, so if you have questions related to code — write me on Email :)
+I try to keep my code clean, but if you have questions, feel free to contact me somewhere :)
